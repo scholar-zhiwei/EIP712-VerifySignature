@@ -1,6 +1,0 @@
-import './accounts'
-import './set-base-uri'
-import './gen-merkle-root'
-import './set-white-list-merkle-root'
-import './withdraw'
-import './verify-all'

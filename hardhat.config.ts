@@ -31,7 +31,6 @@ const namedAccounts = {
 
 export type Signers = { [name in keyof typeof namedAccounts]: SignerWithAddress }
 
-import './tasks'
 import { HardhatUserConfig } from 'hardhat/config'
 
 const config: HardhatUserConfig = {
